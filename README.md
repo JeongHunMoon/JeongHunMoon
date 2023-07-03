@@ -16,7 +16,7 @@
 • 07/22 ~ 08/22 &nbsp;&nbsp; KEPCO KDN (Busan, Korea) / Propose a business model for "A power sales system using deep learning.“<br><br>
 <!--• 09/23 ~ ing &nbsp;&nbsp; &nbsp;&nbsp;  SK C&C USA MES&RTD Software Operator<br><br>-->
 
-### Award
+### Award & Paper
 • 04/2023 &nbsp;&nbsp; Journal of Internet of Things and Convergence (JKIOTS) 2023, vol.9, no.1, pp. 57-64 (ISSN : 2466-0078)<br>
 • 12/2022 &nbsp;&nbsp; Pukyong National University Computer Engineering Department Computer S/W Competition - <b>Grand Prize</b><br>
 • 12/2022	&nbsp;&nbsp; Convergence Capstone Design Competition - <b>Excellence Award</b><br>
