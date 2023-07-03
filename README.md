@@ -19,8 +19,8 @@
 ### Award & Paper
 • 04/2023 &nbsp;&nbsp; Journal of Internet of Things and Convergence (JKIOTS) 2023, vol.9, no.1, pp. 57-64 (ISSN : 2466-0078)<br>
 • 12/2022 &nbsp;&nbsp; Pukyong National University Computer Engineering Department Computer S/W Competition - <b>Grand Prize</b><br>
-• 12/2022	&nbsp;&nbsp; Convergence Capstone Design Competition - <b>Excellence Award</b><br>
-• 11/2022	&nbsp;&nbsp; Electric Love Speech Contest(hosted by Korea Electric Power Corporation, Electric Newspaper) - <b>Encouragement Award</b><br>
+• 12/2022	&nbsp;&nbsp; Convergence Capstone Design Competition - <b>Excellence Prize</b><br>
+• 11/2022	&nbsp;&nbsp; Electric Love Speech Contest(hosted by Korea Electric Power Corporation, Electric Newspaper) - <b>Encouragement Prize</b><br>
 • 07/2022	&nbsp;&nbsp; International Society of Convergence Technology - <b>Gold Priz</b> in Pape<br>
 • 01/2022	&nbsp;&nbsp; Computer literacy writing Certificate<br><br>
 
