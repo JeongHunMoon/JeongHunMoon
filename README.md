@@ -8,7 +8,7 @@
 
 ### Activities
 • 05/22 ~ 09/23 &nbsp;&nbsp; Laboratory life,  Pukyong National University Future Internet Laboratory.<br>
-• 08/22 ~ 09/23 &nbsp;&nbsp; Google Develper Student Club  08/22 ~ 09/23<br>
+• 08/22 ~ 09/23 &nbsp;&nbsp; Google Develper Student Club<br>
 • 01/23 ~ 01/23 &nbsp;&nbsp; Language study abroad at Victoria University in Canada,  Taking “Monthly English Level 2” class as a captain.<br>
 • 03/18 ~ 03/19 &nbsp;&nbsp; WAP<br><br>
 
