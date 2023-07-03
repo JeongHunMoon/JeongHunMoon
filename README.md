@@ -13,7 +13,7 @@
 • 03/18 ~ 03/19 &nbsp;&nbsp; WAP<br><br>
 
 ### Working Experience
-• 07/22 ~ 08/22 &nbsp;&nbsp; KEPCO KDN (Busan, Korea)<br><br>
+• 07/22 ~ 08/22 &nbsp;&nbsp; KEPCO KDN (Busan, Korea) / Propose a business model for "A power sales system using deep learning.“<br><br>
 <!--• 09/23 ~ ing &nbsp;&nbsp; &nbsp;&nbsp;  SK C&C USA MES&RTD Software Operator<br><br>-->
 
 ### Award
@@ -24,14 +24,17 @@
 • 07/2022	&nbsp;&nbsp; International Society of Convergence Technology - <b>Gold Priz</b> in Pape<br>
 • 01/2022	&nbsp;&nbsp; Computer literacy writing Certificate<br><br>
 
+### Study Story
+• https://jeonghoonmoon.tistory.com<br><br>
+
+<!--
 ### Upper-intermediate level English
 • TOEIC Speaking Lv. 6<br><br>
 
-### Study Story
-• https://jeonghoonmoon.tistory.com/  
+  
 
 
-<!--
+
 **JeongHunMoon/JeongHunMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
