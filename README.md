@@ -22,7 +22,7 @@
 • 12/2022 &nbsp;&nbsp; Pukyong National University Computer Engineering Department Computer S/W Competition - <b>Grand Prize</b><br>
 • 12/2022	&nbsp;&nbsp; Convergence Capstone Design Competition - <b>Excellence Prize</b><br>
 • 11/2022	&nbsp;&nbsp; Electric Love Speech Contest(hosted by Korea Electric Power Corporation, Electric Newspaper) - <b>Encouragement Prize</b><br>
-• 07/2022	&nbsp;&nbsp; International Society of Convergence Technology - <b>Gold Priz</b> in Pape<br>
+• 07/2022	&nbsp;&nbsp; International Society of Convergence Technology - <b>Gold Prize</b> in Pape<br>
 • 01/2022	&nbsp;&nbsp; Computer literacy writing Certificate<br><br>
 
 ### Study Story
