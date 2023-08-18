@@ -7,7 +7,7 @@
 • 자바스크립트와 OOP에 관심이 많습니다.<br><br>    
 
 ### Activities
-• 03/18 ~ 02/24 &nbsp;&nbsp; PKNU,  Department of Computer Science,  4.07/4.18(Score) <br>
+• 03/18 ~ 02/24 &nbsp;&nbsp; Pukyong National University,  Department of Computer Science,  4.07/4.18(Score) <br>
 • 05/22 ~ 09/23 &nbsp;&nbsp; Laboratory life,  Future Internet Laboratory,  Pukyong National University.<br>
 • 08/22 ~ 09/23 &nbsp;&nbsp; Google Develper Student Club<br>
 • 01/23 ~ 01/23 &nbsp;&nbsp; Language study abroad at Victoria University in Canada,  Taking “Monthly English Level 2” class as a captain.<br>
