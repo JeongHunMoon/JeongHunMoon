@@ -10,7 +10,7 @@
 • 03/18 ~ 02/24 &nbsp;&nbsp; Pukyong National University,  Department of Computer Science,  4.07/4.18(Score) <br>
 • 05/22 ~ 09/23 &nbsp;&nbsp; Laboratory life,  Future Internet Laboratory,  Pukyong National University.<br>
 • 08/21 ~ 09/23 &nbsp;&nbsp; Google Develper Student Club. <br>
-• 01/23 ~ 01/23 &nbsp;&nbsp; Language study abroad at Victoria University in Canada,  Taking “Monthly English Level 2” class as a captain.<br>
+• 01/23 ~ 01/23 &nbsp;&nbsp; Language study abroad at Victoria University in Canada,  Take “Monthly English Level 2” class as a captain.<br>
 • 03/18 ~ 03/19 &nbsp;&nbsp; WAP<br><br>
 
 ### Working Experience
