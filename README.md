@@ -14,7 +14,7 @@
 • 03/18 ~ 03/19 &nbsp;&nbsp; WAP<br><br>
 
 ### Working Experience
-• 09/23 ~ ing   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SK C&C USA, MES Software Operator<br>
+• 09/23 ~ ing   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SK C&C USA (MES Software Operator) <br>
 • 07/22 ~ 08/22 &nbsp;&nbsp; KEPCO KDN (Busan, Korea) / Propose a business model for "A power sales system using deep learning.“<br><br>
 <!--• 09/23 ~ ing &nbsp;&nbsp; &nbsp;&nbsp;  SK C&C USA MES&RTD Software Operator<br><br>-->
 
