@@ -1,9 +1,9 @@
 # 😄 Hello, This is JeongHun Moon!
 
 ### Introduction
-• 웹 개발자 문정훈입니다. <br>
+• 웹 풀 스택 개발자 문정훈입니다.<br>
 • 리더쉽과 도전정신이 강합니다.<br>
-• 학문을 깊이 탐구하는 것을 좋아합니다. <br>
+• 학문을 깊이 탐구하는 것을 좋아합니다.<br>
 • 자바스크립트와 OOP에 관심이 많습니다.<br><br>    
 
 ### Activities
@@ -28,6 +28,9 @@
 
 ### Study Story
 • https://jeonghoonmoon.tistory.com<br><br>
+
+### Algorithm
+• https://solved.ac/profile/wjdgns8243
 
 <!--
 ### Upper-intermediate level English
